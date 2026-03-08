@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <!-- 如果有 Logo 可取消注释 -->
-  <img src="https://raw.githubusercontent.com/ZJTM-Studio/ZJTM-Studio/main/assets/logo.png" alt="筑界同盟 Logo" width="80" height="80">
+  <img src="Image_1763266261973.jpg" alt="筑界同盟 Logo" width="80" height="80">
   <br>
   筑界同盟 · ZJTM Studio
 </h1>
